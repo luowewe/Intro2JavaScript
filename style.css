@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lightblue;
+}
+h1{
+  color:red;
+}
+button{
+  background-color: darkblue;
+  color:silver;
+  font-family:fantasy;
+}
